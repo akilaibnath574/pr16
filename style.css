@@ -1,0 +1,16 @@
+a{
+    text-decoration: underline;
+    color:brown;
+    text-transform: none;
+    text-shadow: 7px 2px 2px red;
+
+}
+
+p{
+    text-indent: 50px;
+    word-spacing: 5px;
+    line-height: 1.5;
+    white-space: pre;
+    font-family: 'Gill Sans';
+}
+
